@@ -3,8 +3,8 @@ title: "About Alli"
 ---
 
 ```{r,echo=FALSE}
-  Alli<-load.image("C:/Users/hamil/OneDrive/Documents/1 UPenn/Stats Directory/Website Folder/Ababe.png")
- plot(Alli, axes = FALSE)
+  Alli<-load.image("C:/Users/hamil/OneDrive/Documents/1 UPenn/Stats Directory/Website Folder/Alli .png")
+ plot(Alli, axes = FALSE, main = "A.E.B gazing into the distance")
 ```
 
 
