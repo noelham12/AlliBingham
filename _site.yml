@@ -1,0 +1,9 @@
+name: "my-website"
+output_dir: "."
+navbar:
+  title: "Alli Bingham"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
